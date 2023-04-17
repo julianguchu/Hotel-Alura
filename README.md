@@ -2,7 +2,10 @@
 
 
 Programa  de Hotel Alura desarrollado  con JDK 8, Maven como gestor de dependencias , arquitectura en capas y  con Interfacegráfica (GUI) en awt y swing.
+
+
 precondición: creacion de la base de datos  en motor de base de datos mysql . El script de creacion se encuentra en \src\main\java  del proyecto en este repositorio.
+
 
 Login: para acceder a los modulos Crud de reservas  y huespedes será necesario ingresar los siguientes datos : Username== foxone y Password == 123456
 
