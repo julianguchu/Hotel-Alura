@@ -12,7 +12,7 @@ Login: para acceder a los modulos Crud de reservas  y huespedes será necesario 
 
 Filtro y busquedas:  la caja de texto  que dse encuentra en la parte superior izquierda de la vista de  consultas  se  utilizará para realizar el  filtro  en las busquedas   y estará dirigido en un solo atributo  tanto  para reservas como para huespedes: 
 en reservas se filtraran fechas en formato yyyy-mm-dd que apuntara a coincidencias con  el atributo "fecha de entrada" y el huespedes se filtrará apuntando al 
-atruibuto "fecha de nacimiento". Sie ne alguna de  los dos "reservas o  huespedes" se ingresará  un caracter vacio  y seguido a ello  se presionara el botón "buscar",
+atruibuto "fecha de nacimiento". Si en  alguna de  los dos ("reservas o  huespedes")se ingresará  un caracter vacio  y seguido a ello  se presionara el botón "buscar",
 se haría una consulta general en ambos casos, es decir, traería todas las reservas en todas las fechas de inicio y todos los huespedes para todas las fechas de 
 nacimiento de los huespedes.
 
